@@ -14,19 +14,34 @@
 - 📫 How to reach me **ahmed.hossam.elgamal77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ahmedhossam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedhossam" height="30" width="40" /></a>
-</p>
+
+###
+
+<div align="left">
+
+  <a href="mailto:ahmed.hossam.elgamal77@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=7" />
+  </a>
+  <a href="https://linkedin.com/in/ahmedhossam/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=7" />
+  </a>
+</div>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,github,git,webpack,vscode,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap,tailwind,sass,github,git,webpack,vscode,cpp,py,gulp&perline=5" />
   </a>
 </p>
 
+###
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam555&" alt="ahmedhossam555" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhossam555&show_icons=true&locale=en" alt="ahmedhossam555" />
+</div>
+
+###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedhossam555&show_icons=true&locale=en&layout=compact" alt="ahmedhossam555" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedhossam555&show_icons=true&locale=en" alt="ahmedhossam555" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhossam555&" alt="ahmedhossam555" /></p>
