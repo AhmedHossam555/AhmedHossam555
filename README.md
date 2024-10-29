@@ -4,7 +4,7 @@
 <h3 align="center">Frontend developer, In the software world, I love to create projects using my imagination and bring them to life with elegant, friendly user interfaces. I attach great importance to experience, architecture and code quality.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedhossam555&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedhossam555" /> </p>
 
-<img align ="right" width="400" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
+<img align ="right" width="400" alt="coder gif" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
 
 ###
 <br>
