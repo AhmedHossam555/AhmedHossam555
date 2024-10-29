@@ -29,7 +29,7 @@
   <a href="mailto:ahmed.hossam.elgamal77@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&perline=7" />
   </a>
-  <a href="https://linkedin.com/in/ahmedhossam/" target="_blank">
+  <a href="www.linkedin.com/in/ahmed-hossam-ab7114328" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=7" />
   </a>
 </div>
