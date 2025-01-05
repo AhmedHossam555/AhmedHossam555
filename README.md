@@ -19,6 +19,7 @@
 - 💬 Ask me about **Typescript, Angular**
 
 - 📫 How to reach me **ahmed.hossam.elgamal77@gmail.com**
+  
 - 📄 Explore my experiences in the <a href="https://drive.google.com/file/d/1NePNVBAVrZzdNytMgWR5dCRI8Wo0WO4w/view?usp=sharing">MY CV</a>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,7 +28,7 @@
 
 <div align="left">
 
-  <a href="mailto:ahmed.hossam.elgamal77@gmail.com" target="_blank">
+  <a href="mailto:ahmedhossam66600@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&perline=7" />
   </a>
   <a href="www.linkedin.com/in/ahmed-hossam-ab7114328" target="_blank">
