@@ -47,11 +47,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,jquery,js,html,css,bootstrap,tailwind,sass,nodejs,cs,sqlite,git,github,webpack,gulp,vscode,cpp,py&perline=7" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,jquery,js,html,css,bootstrap,tailwind,sass,nodejs,express,cs,sqlite,git,github,webpack,gulp,vscode,cpp,py&perline=7" />
   </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 ---
