@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;Building+Modern+Web+Applications;Lover+of+Clean+Architecture+%26+Elegant+UI;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;Building+Modern+Web+Applications;Lover+of+Clean+Architecture+%26+Elegant+UI;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
 </p>
 
 <img align="right" width="400" alt="coding gif" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
@@ -21,12 +21,13 @@
 - 🔭 I’m currently working on **Track Front End**
 - 🌱 I’m currently learning **Angular & NgRx**
 - 💬 Ask me about **TypeScript, Angular, RxJS, State Management**
-- 📫 Reach me at **ahmedhossam66600@gmail.com**
+- 🧠 Interested in **performance optimization**, **clean architecture**, and **scalable UI design**
+- 📫 Reach me at: **ahmedhossam66600@gmail.com**
 - 📄 Check out my <a href="https://drive.google.com/file/d/1NePNVBAVrZzdNytMgWR5dCRI8Wo0WO4w/view?usp=sharing" target="_blank">**CV**</a>
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with Me
 
 <div align="center">
   <a href="mailto:ahmedhossam66600@gmail.com" target="_blank">
@@ -85,3 +86,4 @@
 <p align="center">
   <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
+
