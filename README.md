@@ -1,92 +1,199 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hossam</h1>
-
-<h3 align="center">
-🚀 Frontend Developer | Angular Enthusiast | Creative Problem Solver  
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedhossam555&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Frontend+Developer;Building+Modern+Web+Applications;Lover+of+Clean+Architecture+%26+Elegant+UI;Open+to+Collaboration+and+Learning" alt="Typing SVG" />
-</p>
-
-<img align="right" width="400" alt="coding gif" src="https://magiccopy.xyz/assets/images/hadder.gif"/>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **Track Front End**
-- 🌱 I’m currently learning **Angular & NgRx**
-- 💬 Ask me about **TypeScript, Angular, RxJS, State Management**
-- 🧠 Interested in **performance optimization**, **clean architecture**, and **scalable UI design**
-- 📫 Reach me at: **ahmedhossam66600@gmail.com**
-- 📄 Check out my <a href="https://drive.google.com/file/d/1NePNVBAVrZzdNytMgWR5dCRI8Wo0WO4w/view?usp=sharing" target="_blank">**CV**</a>
-
----
-
-### 🌐 Connect with Me
-
 <div align="center">
-  <a href="mailto:ahmedhossam66600@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-hossam-ab7114328" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/ahmedhossam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,50:BA2BD2,100:B7178C&height=200&section=header&text=Ahmed%20Hossam&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Angular%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DD0031&center=true&vCenter=true&width=650&lines=Passionate+Frontend+Developer+%F0%9F%9A%80;Angular+%7C+NgRx+%7C+RxJS+%7C+TypeScript;Building+Scalable+%26+Clean+UI+Architectures;Open+to+Collaboration+%26+New+Challenges" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=ahmedhossam555&label=Profile+Views&color=DD0031&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/AhmedHossam555?label=Followers&style=flat-square&color=BA2BD2" />
+
 </div>
 
 ---
 
-### 🧰 Languages & Tools
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,rxjs,jquery,js,html,css,bootstrap,tailwind,sass,nodejs,express,cs,sqlite,git,github,webpack,gulp,vscode,cpp,py&perline=7" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
----
-
-### 🧠 State Management & Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NgRx-%23BA2BD2.svg?style=for-the-badge&logo=ngrx&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJS-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-</p>
+```typescript
+const ahmed = {
+  name:        "Ahmed Hossam",
+  role:        "Frontend Developer",
+  location:    "Egypt 🇪🇬",
+  focus:       ["Angular", "NgRx", "RxJS", "TypeScript"],
+  currentWork: "Track Front End",
+  learning:    ["Angular Standalone APIs", "NgRx SignalStore"],
+  interests:   ["Clean Architecture", "Performance Optimization", "Scalable UI"],
+  contact:     "ahmedhossam66600@gmail.com",
+  funFact:     "I debug with console.log and I'm not ashamed 🎯"
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedHossam555&show_icons=true&theme=dark" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=AhmedHossam555&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHossam555&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="top languages" />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhossam66600@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hossam-ab7114328)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedhossam)
+[![CV](https://img.shields.io/badge/My%20CV-DD0031?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NePNVBAVrZzdNytMgWR5dCRI8Wo0WO4w/view?usp=sharing)
+
 </div>
 
 ---
 
-### 🏆 Achievements & Badges
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedHossam555&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+### ⚡ Core — Angular Ecosystem
+
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
+
+</div>
+
+### 🎨 Styling & UI
+
+<div align="center">
+
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+### 🛠 Tools & Others
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
-### ✍️ Quote
+## 🧠 State Management & Architecture
 
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
-</p>
+<div align="center">
+
+| Concept | Tool | Status |
+|--------|------|--------|
+| Global State | NgRx Store | ✅ Production |
+| Side Effects | NgRx Effects | ✅ Production |
+| Entity Collections | NgRx Entity | ✅ Production |
+| Async Data Streams | RxJS | ✅ Production |
+| Component State | Angular Signals | 🌱 Learning |
+| Signal-based Store | NgRx SignalStore | 🌱 Learning |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+> 🔧 *Projects coming soon — stay tuned!*
+
+<!--
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| **TrackFrontEnd** | Real-time tracking dashboard | Angular · NgRx · RxJS · TailwindCSS | [Live](#) |
+| **Project 2** | Description | Angular · TypeScript | [Repo](#) |
+-->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedHossam555&show_icons=true&theme=radical&hide_border=true&bg_color=0d0f14&title_color=DD0031&icon_color=BA2BD2&text_color=c9d1d9&ring_color=DD0031" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHossam555&layout=compact&theme=radical&hide_border=true&bg_color=0d0f14&title_color=DD0031&text_color=c9d1d9&langs_count=6" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AhmedHossam555&theme=radical&hide_border=true&background=0d0f14&ring=DD0031&fire=BA2BD2&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=7a80a0" height="165" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AhmedHossam555&theme=radical&no-frame=true&margin-w=12&margin-h=12&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHossam555&theme=react-dark&bg_color=0d0f14&color=BA2BD2&line=DD0031&point=ffffff&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 💡 Angular Tip of the Day
+
+> **Use `trackBy` with `*ngFor` to prevent unnecessary DOM re-renders.**
+>
+> ```typescript
+> trackByFn(index: number, item: any): number {
+>   return item.id;
+> }
+> ```
+> Pairs perfectly with OnPush change detection for blazing-fast list rendering. ⚡
+
+---
+
+## ✍️ Dev Philosophy
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."*
+**— Cory House**
+
+<br/>
+
+*"First, solve the problem. Then, write the code."*
+**— John Johnson**
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B7178C,50:BA2BD2,100:DD0031&height=120&section=footer" />
+
+</div>
