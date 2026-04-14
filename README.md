@@ -19,20 +19,16 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const ahmed = {
-  name:        "Ahmed Hossam",
-  role:        "Frontend Developer",
-  location:    "Egypt 🇪🇬",
-  focus:       ["Angular", "NgRx", "RxJS", "TypeScript"],
-  currentWork: "Track Front End",
-  learning:    ["Angular Standalone APIs", "NgRx SignalStore"],
-  interests:   ["Clean Architecture", "Performance Optimization", "Scalable UI"],
-  contact:     "ahmedhossam66600@gmail.com",
-  funFact:     "I debug with console.log and I'm not ashamed 🎯"
-};
-```
+Frontend Developer specializing in building scalable, high-performance web applications using Angular and modern JavaScript.
 
+I focus on creating clean, maintainable architectures with strong attention to performance, accessibility, and user experience.
+
+- 🚀 Currently working on advanced Angular patterns & state management  
+- 🧠 Deep diving into NgRx, RxJS, and Signal-based architecture  
+- ⚡ Passionate about clean code, performance optimization, and UI scalability  
+- 🤝 Open to collaboration and frontend opportunities  
+
+📫 Reach me at: **ahmedhossam66600@gmail.com**
 ---
 
 ## 🌐 Connect With Me
