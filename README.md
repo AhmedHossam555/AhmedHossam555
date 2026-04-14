@@ -158,19 +158,6 @@ I focus on creating clean, maintainable architectures with strong attention to p
 
 ---
 
-## 💡 Angular Tip of the Day
-
-> **Use `trackBy` with `*ngFor` to prevent unnecessary DOM re-renders.**
->
-> ```typescript
-> trackByFn(index: number, item: any): number {
->   return item.id;
-> }
-> ```
-> Pairs perfectly with OnPush change detection for blazing-fast list rendering. ⚡
-
----
-
 ## ✍️ Dev Philosophy
 
 <div align="center">
