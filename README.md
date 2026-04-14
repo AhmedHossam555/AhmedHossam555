@@ -122,17 +122,10 @@ I focus on creating clean, maintainable architectures with strong attention to p
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedHossam555&show_icons=true&theme=radical&hide_border=true&bg_color=0d0f14&title_color=DD0031&icon_color=BA2BD2&text_color=c9d1d9&ring_color=DD0031" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedHossam555&layout=compact&theme=radical&hide_border=true&bg_color=0d0f14&title_color=DD0031&text_color=c9d1d9&langs_count=6" height="165" />
-
-</div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=AhmedHossam555&theme=radical&hide_border=true&background=0d0f14&ring=DD0031&fire=BA2BD2&currStreakLabel=DD0031&sideLabels=c9d1d9&dates=7a80a0" height="165" />
+<img width="60%" src="https://streak-stats.demolab.com?user=AhmedHossam555&theme=radical&hide_border=true" />
 
 </div>
 
@@ -140,11 +133,9 @@ I focus on creating clean, maintainable architectures with strong attention to p
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AhmedHossam555&theme=radical&no-frame=true&margin-w=12&margin-h=12&column=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHossam555&theme=github-dark" width="100%" />
+</p>
 
 ---
 
@@ -152,7 +143,7 @@ I focus on creating clean, maintainable architectures with strong attention to p
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHossam555&theme=react-dark&bg_color=0d0f14&color=BA2BD2&line=DD0031&point=ffffff&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedHossam555&theme=github-dark&hide_border=true" width="100%" />
 
 </div>
 
